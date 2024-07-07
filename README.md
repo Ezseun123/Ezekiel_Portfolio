@@ -1,2 +1,2 @@
-# Ezekiel_Portfolio
+# Ezekiels_Portfolio
 Analytic Portfolio
