@@ -3,7 +3,7 @@
 ![](homepage.jpg)
 ---
 ## Introduction
-I was assigned the task of bringing out an insight from the insight from this data which has helped me practice my data cleaning, analysis, and visualisation skills.
+I was assigned the task of bringing out insight from the insight from this data which has helped me practice my data cleaning, analysis, and visualisation skills.
 
 **_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, but just a dataset to demonstrate capabilities of Power BI._
 
