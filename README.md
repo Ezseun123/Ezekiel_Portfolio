@@ -1,4 +1,4 @@
-### ﻿Sales Analysis
+### XYZ Company ﻿Sales Analysis Report
 
 ![](homepage.jpg)
 ---
